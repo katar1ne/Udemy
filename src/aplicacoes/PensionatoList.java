@@ -1,9 +1,10 @@
 package aplicacoes;
 
-import java.util.Scanner;
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Locale;
+import java.util.Scanner;
 
 import entidades.EntidadesPensionatoList;
 
